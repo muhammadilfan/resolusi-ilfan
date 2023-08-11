@@ -1,6 +1,8 @@
 RENCANA PROJECT ILFAN
 
 - Javascript
+  * ES6
+  * Framework JS
 - PHP Framework
 - Laravel
 - Phyton
