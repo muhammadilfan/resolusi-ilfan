@@ -3,6 +3,7 @@ RENCANA PROJECT ILFAN
 - Javascript
   * ES6
   * Framework JS
+- Struktur data dasar
 - PHP Framework
 - Laravel
 - Phyton
