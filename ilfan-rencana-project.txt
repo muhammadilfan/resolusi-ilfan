@@ -2,7 +2,7 @@ RENCANA PROJECT ILFAN
 
 - Javascript
   * ES6
-  * Framework JS
+  * Framework JS   
    ^ Vue
    ^ React
 - Struktur data dasar
