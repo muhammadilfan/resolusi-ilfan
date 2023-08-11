@@ -3,7 +3,11 @@ RENCANA PROJECT ILFAN
 - Javascript
   * ES6
   * Framework JS
+   ^ Vue
+   ^ React
 - Struktur data dasar
 - PHP Framework
-- Laravel
+  ^ Laravel
+- Interview
+- Vlogs
 - Phyton
