@@ -4,6 +4,7 @@ RENCANA PROJECT ILFAN
   * ES6
   * Framework JS
    ^ Vue
+   ^ React
 - Struktur data dasar
 - PHP Framework
   ^ Laravel
