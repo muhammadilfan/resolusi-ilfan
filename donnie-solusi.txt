@@ -1,0 +1,6 @@
+Halo bang
+Saya donnie dari semarang, salam kenal!
+
+Resolusi saya :
+- Membuat website menggunakan framework javascript
+- Bekerja di start-up
